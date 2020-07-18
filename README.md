@@ -24,7 +24,7 @@ Syntax highlighted code block  TESTING
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+Computational Thinking Curriculum [Link](https://www.notion.so/Computational-Thinking-17917bdf44db4278a31acb3fd405fcdc)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
