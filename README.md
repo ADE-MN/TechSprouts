@@ -23,7 +23,7 @@ Syntax highlighted code block  TESTING
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+CT Curriculumn [Link](https://www.notion.so/Computational-Thinking-17917bdf44db4278a31acb3fd405fcdchttps://www.notion.so/Computational-Thinking-17917bdf44db4278a31acb3fd405fcdc) 
 Computational Thinking Curriculum[Link](https://www.notion.so/Computational-Thinking-17917bdf44db4278a31acb3fd405fcdc)
 ```
 
@@ -31,7 +31,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [Link](https://www.notion.so/Computational-Thinking-17917bdf44db4278a31acb3fd405fcdc). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [Link](https://github.com/ADE-MN/TechSprouts/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
