@@ -23,7 +23,7 @@ Syntax highlighted code block  TESTING
 2. List
 
 **Bold** and _Italic_ and `Code` text
-CT Curriculumn [Link](https://www.notion.so/Computational-Thinking-17917bdf44db4278a31acb3fd405fcdchttps://www.notion.so/Computational-Thinking-17917bdf44db4278a31acb3fd405fcdc) 
+CT Curriculumn [Link](https://www.notion.so/Computational-Thinking-17917bdf44db4278a31acb3fd405fcdc) 
 Computational Thinking Curriculum[Link](https://www.notion.so/Computational-Thinking-17917bdf44db4278a31acb3fd405fcdc)
 ```
 
