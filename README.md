@@ -1,4 +1,3 @@
-#
 INSERT MISSION STATEMENT.
 
 ### About us
