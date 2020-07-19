@@ -5,9 +5,7 @@ INSERT MISSION STATEMENT.
 INSERT ABOUT US
 
 ### Curricula
-Introduction to Computational Thinking
-- [For Students](https://www.notion.so/Computational-Thinking-17917bdf44db4278a31acb3fd405fcdc)
-- [For Educators](https://www.notion.so/Teacher-s-Guide-to-Computational-Thinking-643888213b6b4358848c961ce593c56f)
+Introduction to Computational Thinking [[Students]](https://www.notion.so/Computational-Thinking-17917bdf44db4278a31acb3fd405fcdc) [[Educators]](https://www.notion.so/Teacher-s-Guide-to-Computational-Thinking-643888213b6b4358848c961ce593c56f)
 
 ```markdown
 Syntax highlighted code block  TESTING
