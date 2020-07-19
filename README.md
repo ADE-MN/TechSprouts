@@ -1,13 +1,13 @@
 #
-Association for Digital Equity
-
 INSERT MISSION STATEMENT.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About us
+INSERT ABOUT US
 
-### Markdown
-
-"Testing" is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Curricula
+Introduction to Computational Thinking
+- [For Students](https://www.notion.so/Computational-Thinking-17917bdf44db4278a31acb3fd405fcdc)
+- [For Educators](https://www.notion.so/Teacher-s-Guide-to-Computational-Thinking-643888213b6b4358848c961ce593c56f)
 
 ```markdown
 Syntax highlighted code block  TESTING
@@ -23,7 +23,7 @@ Syntax highlighted code block  TESTING
 2. List
 
 **Bold** and _Italic_ and `Code` text
-CT Curriculumn [Link](https://www.notion.so/Computational-Thinking-17917bdf44db4278a31acb3fd405fcdc) 
+CT Curriculumn 
 Computational Thinking Curriculum[Link](https://www.notion.so/Computational-Thinking-17917bdf44db4278a31acb3fd405fcdc)
 ```
 
