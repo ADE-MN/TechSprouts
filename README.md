@@ -1,6 +1,6 @@
-INSERT MISSION STATEMENT.
+# Planting the Seeds for Tomorrow's Generation
 
-### About us
+### Our Mission 
 INSERT ABOUT US
 
 ### Curriculum
