@@ -1,4 +1,4 @@
-# Planting the Seeds for Tomorrow's Generation
+## Planting the Seeds for Tomorrow's Generation
 
 ### Our Mission 
 INSERT ABOUT US
