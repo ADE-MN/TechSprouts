@@ -8,7 +8,7 @@ Digital literacy for all
 + Taras Hutsal
 + Luna Yemane
 + Najib Hussien
-+ Yib Wattero
++ Yibeltal Wattero
 
 ## Our Mission 
 INSERT ABOUT US
