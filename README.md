@@ -18,6 +18,7 @@ Introduction to Computational Thinking \[[Students](https://www.notion.so/Comput
 
 
 ### Privacy and Safety [IN PROGRESS]
+\[Presentation](https://docs.google.com/presentation/d/1-8E5Djk2edlZHVW334AbYdfFBXpLXNp1OMPEH1kLOtE/edit?usp=sharing)\]
 
 
 ### Digital Creativity [IN PROGRESS]
