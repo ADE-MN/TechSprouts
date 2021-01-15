@@ -3,4 +3,6 @@ TODO:
 	[ ]  	get custom domain up	(Hayden) 
 	[ ]	get active media links 
 	[ ]	get favicon up
+	[ ]	Contact us -> External Page
+	[ ]	Clean up the repo
 
