@@ -1,31 +1,12 @@
 # TechSprouts
-Digital literacy for all
-## Members
-+ Olivia Alberts
-+ Hayden Johnson
-+ Ayo Osonowo
-+ Will Trussell
-+ Taras Hutsal
-+ Luna Yemane
-+ Najib Hussien
-+ Yibeltal Wattero
+Planting the seeds of tomorrow's generation
 
-## Our Mission 
-INSERT ABOUT US
+## Our Mission
+Our mission is to reach underserved youth in Minneapolis communities, primarily elementary students, and introduce them to skills such as digital literacy, computational thinking, and computer programming. As society undergoes this digital revolution, we want to equip students with the necessary skills to make sure that these students are not left behind. It is crucial that we engage students with technology as early as possible, and open up their minds to the opportunities that technology offers.
 
-## Curriculum
-Introduction to Computational Thinking \[[Students](https://www.notion.so/Computational-Thinking-17917bdf44db4278a31acb3fd405fcdc)\] \[[Educators](https://www.notion.so/Teacher-s-Guide-to-Computational-Thinking-643888213b6b4358848c961ce593c56f)\] \[[Resources](https://www.notion.so/Resources-f75ce4bec6be4a598463c561df37d4db)\] 
+## About Us
+At TechSprouts, our mission is to expand access of critical technological skills to students at underserved schools in the Twin Cities. We are a team of computer science, cybersecurity, and technology students passionate about digital literacy, and develop curriculum for Twin Cities schools. We are a resource for teachers, parents, and students alike.
 
+Let's empower the next generation of technology leaders and responsible digital citizens together! For our cool resources go to (hyperlink to the repo / the website). Reach out to us for partnership opportunities at techsprouts@umn.edu.
 
-### Privacy and Safety [IN PROGRESS]
-Presentation found \[[Here](https://docs.google.com/presentation/d/1-8E5Djk2edlZHVW334AbYdfFBXpLXNp1OMPEH1kLOtE/edit?usp=sharing)\]
-
-
-### Digital Creativity [IN PROGRESS]
-
-
-### Hardware [IN PROGRESS]
-
-#### Some of our Favorite Resources
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [Link](https://github.com/ADE-MN/TechSprouts/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Contact Us
