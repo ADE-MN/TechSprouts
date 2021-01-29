@@ -7,6 +7,7 @@ Our mission is to reach underserved youth in Minneapolis communities, primarily 
 ## About Us
 At TechSprouts, our mission is to expand access of critical technological skills to students at underserved schools in the Twin Cities. We are a team of computer science, cybersecurity, and technology students passionate about digital literacy, and develop curriculum for Twin Cities schools. We are a resource for teachers, parents, and students alike.
 
-Let's empower the next generation of technology leaders and responsible digital citizens together! For our cool resources go to (hyperlink to the repo / the website). Reach out to us for partnership opportunities at techsprouts@umn.edu.
+Let's empower the next generation of technology leaders and responsible digital citizens together! For our cool resources go to www.ademn-github.io/techsprouts.
 
 ## Contact Us
+Reach out to us for partnership opportunities at techsproutsorganization@gmail.com!
