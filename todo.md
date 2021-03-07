@@ -9,3 +9,4 @@
 6. Get mobile site up           []              [ ]
 7. hyperlinks to social         []              [ ]
 8. Fix favicon bug              []              [ ]
+9. Fix logo bug                 []              [ ]
